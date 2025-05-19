@@ -29,7 +29,7 @@ body {
             flex-wrap: wrap;
             gap: 30px;
             justify-content: center;
-            margin-bottom: 60px; /* Add space below the team section */
+            margin-bottom: 60px;
         }
 
         .card {
@@ -103,7 +103,7 @@ body {
         .latest-blogs {
             text-align: center;
             padding: 50px 20px;
-            background-color: #f9f9f9; /* Optional background color */
+            background-color: #f9f9f9;
         }
 
         .latest-blogs h2 {
